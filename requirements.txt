@@ -1,0 +1,5 @@
+dlib
+cv2
+copy
+numpy
+tqdm
